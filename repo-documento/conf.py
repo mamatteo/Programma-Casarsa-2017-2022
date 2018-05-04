@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Programma amministrativo 2017-2022"
+settings_project_name = "Programma amministrativo 2017-2022 Comune di Casarsa della Delizia"
 settings_copyright_copyleft = 'Comune di Casarsa della Delizia'
 settings_editor_name = 'Matteo Troìa'
 settings_doc_version = 'version: latest'
