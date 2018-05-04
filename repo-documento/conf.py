@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Titolo del documento"
-settings_copyright_copyleft = 'AgID - Team Digitale'
-settings_editor_name = 'AgID - Team Digitale'
+settings_project_name = "Programma amministrativo 2017-2022"
+settings_copyright_copyleft = 'Comune di Casarsa della Delizia'
+settings_editor_name = 'Matteo Troìa'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'titolo-documento'
-settings_file_name = 'titolo-documento'
+settings_basename = 'Programma amministrativo 2017-2022'
+settings_file_name = 'Programma amministrativo 2017-2022'
 
 # -- No need to change below here
 
